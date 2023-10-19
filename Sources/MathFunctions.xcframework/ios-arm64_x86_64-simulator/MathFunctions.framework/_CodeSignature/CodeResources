@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/Logger.framework/Info.plist</key>
+		<data>
+		9kdzZG9PbCw/5Sqf6wmKV/6Q2Oc=
+		</data>
+		<key>Frameworks/Logger.framework/Logger</key>
+		<data>
+		LED+kAwdRQ3GpprOwltSepy+Ohg=
+		</data>
+		<key>Frameworks/Logger.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Hj0Jcs+D5KmnOkt3ZaLSWUdiKIo=
+		</data>
 		<key>Headers/MathFunctions-Swift.h</key>
 		<data>
 		2lLZqUngNimeIkD1hZ7Sev1ASXU=
@@ -71,6 +83,27 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Logger.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NnoFn+hQ84WlvJ2Mzx3UdTMPOkkVj22X6j0YGKMmDcY=
+			</data>
+		</dict>
+		<key>Frameworks/Logger.framework/Logger</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ML0GREjTRhvlIMsDAMvFBgzSH2Q3uNeH/KVNTrdfApA=
+			</data>
+		</dict>
+		<key>Frameworks/Logger.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qmuBKbVyBhxlyXpSlu+7CUliZ70a4N+Sb4QtqtADny8=
+			</data>
+		</dict>
 		<key>Headers/MathFunctions-Swift.h</key>
 		<dict>
 			<key>hash2</key>
