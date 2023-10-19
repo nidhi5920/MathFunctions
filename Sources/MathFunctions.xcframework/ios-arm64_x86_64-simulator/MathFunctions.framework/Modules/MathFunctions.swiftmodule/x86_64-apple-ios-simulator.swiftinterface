@@ -2,11 +2,12 @@
 // swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
 // swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MathFunctions
 import Foundation
+import Logger
 @_exported import MathFunctions
 import Swift
 import _Concurrency
 @_hasMissingDesignatedInitializers public class Operation {
-  public static func sum() -> Swift.Double
-  public static func sub() -> Swift.Double
+  public static func sum(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
+  public static func sub(num1: Swift.Double, num2: Swift.Double) -> Swift.Double
   @objc deinit
 }
