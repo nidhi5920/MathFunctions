@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Logger",
+        "repositoryURL": "https://github.com/nidhi5920/LoggerSPM.git",
+        "state": {
+          "branch": null,
+          "revision": "177161e783beb538c5b693266624e5087212d33e",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
